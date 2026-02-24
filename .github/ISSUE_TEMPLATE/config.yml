@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Kangaroo Community Support
+    url: https://github.com/kangaroo-opensource/kangaroo/discussions
+    about: Ask questions or discuss features here
+  - name: Documentation
+    url: https://kangaroo-opensource.github.io/kangaroo-docs/
+    about: Check the official Kangaroo documentation
