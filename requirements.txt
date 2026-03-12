@@ -30,6 +30,7 @@ drf-yasg
 et-xmlfile
 future
 geographiclib
+gunicorn
 geopy
 google-api-core
 google-api-python-client
